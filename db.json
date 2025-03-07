@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Anna",
+      "surname": "Churco",
+      "age": "30",
+      "ball": 80,
+      "date": "20 April"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "surname": "Mackalister",
+      "age": 32,
+      "ball": 67,
+      "date": "30 June"
+    },
+    {
+      "name": "Mark",
+      "surname": "Duglas",
+      "age": "27",
+      "ball": 90,
+      "date": "25 April",
+      "id": "3"
+    }
+  ]
+}
